@@ -9,3 +9,4 @@
 
 * [Notifications](basics/editor.md)
 * [Why & How](basics/images-and-media.md)
+* [Providers](basics/providers.md)
