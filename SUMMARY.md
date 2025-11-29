@@ -3,10 +3,10 @@
 ## Getting Started
 
 * [Intro](README.md)
-* [Subscribe](getting-started/publish-your-docs.md)
+* [Subscribe](getting-started/subscribe.md)
 
 ## Basics
 
-* [Notifications](basics/editor.md)
-* [Why & How](basics/images-and-media.md)
+* [Notifications](basics/notifications.md)
+* [Why & How](basics/why-and-how.md)
 * [Providers](basics/providers.md)
