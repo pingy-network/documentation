@@ -22,4 +22,4 @@ metaLinks:
 
 # Subscribe
 
-[Subscribe](https://waitlist.pingy.network/) to Early Access and add an additional layer of protection to your multisig setup. Whether you manage your own finances onchain, or whether you are responsible for a large treasury, security is not optional.
+[Subscribe](https://waitlist.pingy.network/) for Early Access and add an additional layer of protection for your multisig setup. Whether you manage your own finances onchain, or whether you are responsible for a large treasury, security is not optional.
